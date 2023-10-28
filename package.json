@@ -1,0 +1,21 @@
+{
+  "name": "hs-toast",
+  "version": "5.0.4",
+  "description": "toast to ios and android - react native. Pure javascript",
+  "main": "dist",
+  "repository": "ddd",
+  "author": "Henrique Silva",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-root-siblings": "^5.0.1",
+    "react-native-uuid": "^2.0.1"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.47.0"
+  },
+  "devDependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@types/react": "^18.2.33",
+    "typescript": "^5.2.2"
+  }
+}
