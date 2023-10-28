@@ -1,11 +1,25 @@
 {
   "name": "hs-toast",
-  "version": "5.0.4",
+  "version": "1.0.0",
   "description": "toast to ios and android - react native. Pure javascript",
   "main": "dist",
-  "repository": "ddd",
-  "author": "Henrique Silva",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HenrrySillva/hs-toast"
+  },
+  "author": {
+    "name": "Henrique Silva",
+    "email": "henriquesilva.dev@outlook.com"
+  },
   "license": "MIT",
+  "keywords": [
+    "toast react native",
+    "toast",
+    "react-native",
+    "ios",
+    "android",
+    "react-component"
+  ],
   "dependencies": {
     "react-native-root-siblings": "^5.0.1",
     "react-native-uuid": "^2.0.1"
