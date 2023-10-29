@@ -1,5 +1,5 @@
 {
-  "name": "hs-toast",
+  "name": "react-native-hs-toast",
   "version": "1.0.0",
   "description": "toast to ios and android - react native. Pure javascript",
   "main": "dist",
@@ -20,11 +20,15 @@
     "android",
     "react-component"
   ],
+  "files": [
+    "dist/*"
+  ],
   "dependencies": {
     "react-native-root-siblings": "^5.0.1",
     "react-native-uuid": "^2.0.1"
   },
   "peerDependencies": {
+    "react" : "*",
     "react-native": ">=0.47.0"
   },
   "devDependencies": {
